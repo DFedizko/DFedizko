@@ -1,12 +1,36 @@
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=D8582C&lines=olá!+👋;+me+chamo+Pedro+Fedizko!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=ff652f&lines=olá!+👋;+me+chamo+Pedro+Fedizko!;" />
 </h1>
 
-<div align="center">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=DFedizko&theme=codeSTACKr&locale=pt-br" />
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DFedizko&layout=compact&langs_count=8&card_width=320&theme=codeSTACKr&locale=pt-br" />
-</div>
 
+<div align="center">
+  <picture align="center">
+    <source
+      height=180
+      srcset="https://github-readme-stats.vercel.app/api?username=DFedizko&theme=codeSTACKr&locale=pt-br"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      height=180
+      srcset="https://github-readme-stats.vercel.app/api?username=DFedizko&theme=default&title_color=ff652f&icon_color=FFE400&border_color=0c1a25&locale=pt-br"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=DFedizko&theme=default&locale=pt-br" />
+  </picture>
+  <picture align="center">
+    <source
+      height=180
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=DFedizko&layout=compact&langs_count=8&card_width=320&theme=codeSTACKr&locale=pt-br"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      height=180
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=DFedizko&layout=compact&langs_count=8&card_width=320&theme=default&title_color=ff652f&icon_color=FFE400&border_color=0c1a25&locale=pt-br"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=DFedizko&theme=default&locale=pt-br" />
+  </picture>
+</div>
 
 <h2 align="center">Sobre Mim</h2>
 
