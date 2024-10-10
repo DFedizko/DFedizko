@@ -1,11 +1,10 @@
 ## Olá, meu nome é Pedro Fedizko!
 
-<a href="https://github.com/DFedizko/github-readme-stats">
+<div>
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=DFedizko&theme=codeSTACKr&locale=pt-br" />
-</a>
-<a href="https://github.com/DFedizko/convoychat">
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DFedizko&layout=compact&langs_count=8&card_width=320&theme=codeSTACKr&locale=pt-br" />
-</a>
+</div>
+
 
 ### Sobre Mim
 
