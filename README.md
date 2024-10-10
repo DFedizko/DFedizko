@@ -10,8 +10,9 @@
 
 <h2 align="center">Sobre Mim</h2>
 
-- 🔭 Atualmente estou cursando Engenharia de Software na FIAP
-- 🌱 Ultimamente estou aprendendo a integrar inteligência artificial nos meus projetos
+- 🎓 Atualmente estou cursando Engenharia de Software na FIAP
+- 🧑‍💻 Ultimamente estou lutando bastante para aprender novas linguagens e integrar inteligência artificial nos meus projetos
+- 🤝 Iniciei minha jornada na programação no começo de 2024, aprendi bastante nesses últimos tempos e ainda tenho muito o que aprender, então qualquer contribuição é bem vinda!
 
 <h2 align="center">Ferramentas e Tecnologias</h2>
 
