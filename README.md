@@ -19,7 +19,11 @@
 <img src="https://skillicons.dev/icons?i=html,css,javascript,python,git,github,figma"/>
 </div>
 
-![snake gif](https://github.com/your-user-name/your-user-name/blob/output/github-contribution-grid-snake.gif)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/DFedizko/DFedizko/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/DFedizko/DFedizko/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/DFedizko/DFedizko/blob/output/github-contribution-grid-snake.svg" />
+</picture>
 
 <h2 align="center">Contatos</h2>
 
