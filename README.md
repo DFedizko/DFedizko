@@ -35,7 +35,7 @@
 <h2 align="center">Sobre Mim</h2>
 
 - 🎓 Atualmente estou cursando Engenharia de Software na FIAP
-- 🧑‍💻 Ultimamente estou lutando bastante para aprender novas linguagens e integrar inteligência artificial nos meus projetos
+- 💻 Ultimamente estou estudando desenvolvimento web, me aprofundando em javascript e introduzindo React
 - 🤝 Iniciei minha jornada na programação no começo de 2024, aprendi bastante nesses últimos tempos e ainda tenho muito o que aprender, então qualquer contribuição é bem vinda!
 
 <h2 align="center">Ferramentas e Tecnologias</h2>
