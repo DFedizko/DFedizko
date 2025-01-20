@@ -35,7 +35,7 @@
 
 - 🎓 I’m currently pursuing a Bachelor’s Degree in Software Engineering at FIAP.
 - 💻 Lately, I’ve been focusing on web development, diving deeper into JavaScript and getting started with React.
-- 🤝 I began my programming journey in early 2024 and have learned a lot since then, but I know there’s still so much more to discover—any contribution is always welcome!
+- 🤝 I began my programming journey in early 2024 and have learned a lot since then, but I know there’s still so much more to discover any contribution is always welcome!
 
 <h2 align="center">Technologies</h2>
 
