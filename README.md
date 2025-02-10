@@ -40,7 +40,7 @@
 <h2 align="center">Technologies</h2>
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,javascript,python,git,github,figma"/>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,sass,python,git,github,figma"/>
 </div>
 
 <picture>
