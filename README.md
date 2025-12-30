@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=ff652f&lines=hello!+👋;+my+name+is+Pedro+Fedizko!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=ff652f&lines=hello!+👋;+my+name+is+Pedro+Fedizko!;" />
 </h1>
 
 <div align="center">
@@ -33,14 +33,22 @@
 
 <h2 align="center">About Me</h2>
 
+- 🧑🏻‍💻 Currently working as a junior software engineer at klubi.
 - 🎓 I’m currently pursuing a Bachelor’s Degree in Software Engineering at FIAP.
 - 💻 Lately, I’ve been focusing on web development, diving deeper into frontend frameworks like Next.js/Astro and Express for backend.
-- 🤝 I began my programming journey in early 2024 and have learned a lot since then, but I know there’s still so much more to discover any contribution is always welcome!
 
-<h2 align="center">Technologies</h2>
+<h2 align="center">My Stack</h2>
+
+<h3 align="center">Front-End</h3>
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind,sass,python,git,github,figma"/>
+  <img src="https://skillicons.dev/icons?i=typescript,react,nextjs,astro,tailwind"/>
+</div>
+
+<h3 align="center">Back-End</h3>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,mysql"/>
 </div>
 
 <picture>
