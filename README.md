@@ -33,9 +33,9 @@
 
 <h2 align="center">About Me</h2>
 
-- 🧑🏻‍💻 Currently working as a junior software engineer at klubi.
+- 🧑🏻‍💻 Currently working as a junior software engineer at Klubi.
 - 🎓 I’m currently pursuing a Bachelor’s Degree in Software Engineering at FIAP.
-- 💻 Lately, I’ve been focusing on web development, diving deeper into frontend frameworks like Next.js/Astro and Express for backend.
+- 💻 Lately, i’ve been focusing on backend for web development, diving deeper into frameworks like Express and prisma orm.
 
 <h2 align="center">My Stack</h2>
 
