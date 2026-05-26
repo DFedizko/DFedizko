@@ -34,8 +34,8 @@
 <h2 align="center">About Me</h2>
 
 - 🧑🏻‍💻 Currently working as a junior software engineer at Klubi.
-- 🎓 I’m currently pursuing a Bachelor’s Degree in Software Engineering at FIAP.
-- 💻 Lately, i’ve been focusing on backend for web development, diving deeper into frameworks like Express and prisma orm.
+- 🎓 I’m currently pursuing a Bachelor’s Degree in Software Engineering at FIAP (5/8).
+- 💻 Lately, I've been studying more about design as a whole - hexagonal architecture, clean architecture, event-driven architecture, domain-driven design, and concepts like message queues and events.
 
 <h2 align="center">My Stack</h2>
 
