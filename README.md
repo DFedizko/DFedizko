@@ -48,7 +48,7 @@
 <h3 align="center">Back-End</h3>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,mysql,postgresql,docker,rabbitmq,redis,aws"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,prisma,mysql,postgresql,docker,rabbitmq,redis,aws"/>
 </div>
 
 <picture>
