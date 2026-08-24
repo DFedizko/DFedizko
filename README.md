@@ -35,7 +35,7 @@
 
 - 🧑🏻‍💻 Currently working as a full-stack software engineer at <a href="https://www.klubi.com.br/" target="_blank">Klubi</a>.
 - 🎓 I’m currently pursuing a Bachelor’s Degree in Software Engineering at FIAP (6/8).
-- 💻 Lately, I've been studying more about design as a whole - hexagonal architecture, clean architecture, event-driven architecture, domain-driven design, and concepts like message queues and events.
+- 💻 Lately, I've been studying more about code design and system design as a whole - hexagonal architecture, clean architecture, event-driven architecture, domain-driven design, and concepts like message queues and events.
 
 <h2 align="center">My Stack</h2>
 
